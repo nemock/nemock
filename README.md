@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Get your copy of Founders Who Finish at http://www.davesaunders.net/book
+
 <!--
 **nemock/nemock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
